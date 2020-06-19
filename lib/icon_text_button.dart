@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 
 ///
 /// The enum values Of the button's type
-/// 按钮类型的枚举值
+/// Giá trị liệt kê loại nút
 ///
 enum BtnType { raise, outline, flat, icon }
 
